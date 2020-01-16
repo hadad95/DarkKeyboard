@@ -1,9 +1,10 @@
 Package: com.kef.darkkeyboard
 Name: DarkKeyboard
 Depends: mobilesubstrate
-Version: 1.0
 Architecture: iphoneos-arm
-Description: Force dark keyboard on iOS
+Description: An awesome MobileSubstrate tweak!
 Maintainer: Kef
 Author: Kef
 Section: Tweaks
+Version: 1.0-1+debug
+Installed-Size: 72
